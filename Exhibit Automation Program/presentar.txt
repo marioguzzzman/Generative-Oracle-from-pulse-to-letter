@@ -1,0 +1,7 @@
+@echo off
+
+cd C:\Users\MUNTREF\Desktop\EXPO\processing-2.2.1
+RMDIR /S /Q "sketch_out"
+
+start processing-java --sketch=ORACULO_FINAL_PRUEBA_GENERATIVA --output=sketch_out --force --present
+

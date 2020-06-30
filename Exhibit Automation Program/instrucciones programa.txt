@@ -1,0 +1,8 @@
+instalar el archivo presentar en la carpeta de inicio de windows
+
+windows+r
+shell:startup
+
+Programar tarea para ejecutar 
+
+pasar archivo a .bat
