@@ -6,3 +6,10 @@ Interactive / Algorithmic Literature / Writing Interface
 Microcontroller, generative software, acrylic, infrared sensors. 100 x 90 x 50 cm
 
 http://www.mario-guzman.com/project/oraculo.html
+
+Libraries:
+Serial
+https://processing.org/reference/libraries/serial/index.html
+Firmata
+https://playground.arduino.cc/Interfacing/Processing/
+https://github.com/firmata/processing/releases/tag/latest
